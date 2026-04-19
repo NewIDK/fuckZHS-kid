@@ -1,4 +1,6 @@
 Pillow>=8.1.1
+selenium
+webdriver-manager
 pycryptodome
 requests
 tiktoken
